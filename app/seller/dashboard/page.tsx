@@ -1,1 +1,2 @@
-export {default} from '../page';
+import Seller from '../page';
+export default function SellerDashboard(){return <Seller/>}
